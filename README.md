@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani kumari</h1>
-<h3 align="center">CSE'24 MNNIT, Allahabad</h3>
+<h3 align="center">Chemical'24 MNNIT, Allahabad</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani0212&" alt="" /></p>
 
 <!--
